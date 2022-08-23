@@ -26,5 +26,5 @@ EJECUCIÓN:
 - En la terminal del BROKER se debe ejecutar el comando "./broker" seguido de la dirección IP del broker "192.168.1.1".
 - En la terminal del PUBLISHER se debe ejecutar el comando ./publisher
 - Finalmente, desde la máquina virtual del publisher se ingresa el texto que será leído por el broker.
-	Este texto será almacenado en la tabla hash y enviado a un subscriber si este está suscrito al topico creado por el PUBLISHER.
+	Este texto será almacenado en la tabla hash y enviado a un subscriber si este está suscrito al tópico creado por el PUBLISHER.
 *El archivo de configuración tiene como información el número de puerto y el tamaño de la tabla hash.
